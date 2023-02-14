@@ -1,0 +1,8 @@
+setup.py
+send_email/__init__.py
+send_email/handler.py
+send_email.egg-info/PKG-INFO
+send_email.egg-info/SOURCES.txt
+send_email.egg-info/dependency_links.txt
+send_email.egg-info/not-zip-safe
+send_email.egg-info/top_level.txt
